@@ -1,0 +1,11 @@
+{
+  "name": "spainstarter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Calm, practical travel planning for Spain \u2014 AVE high-speed trains, regional itineraries, tapas & culture, and all 8,124 Spanish municipalities.",
+  "scripts": {
+    "build": "node build.mjs",
+    "Start": "node build.mjs"
+  }
+}
